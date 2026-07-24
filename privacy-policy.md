@@ -1,10 +1,8 @@
 # Privacy Policy
 
-**Effective Date:** [INSERT DATE]
+**Effective Date:** July 24, 2026
 
 McRay Roofing ("we," "us," or "our") respects your privacy. This Privacy Policy explains how we collect, use, and protect information in connection with our internal SMS-based billing confirmation system used to communicate with our own sales representatives.
-
-*This is a draft template and has not been reviewed by an attorney. Please have legal counsel review before publishing.*
 
 ## 1. Information We Collect
 
@@ -30,9 +28,11 @@ We share information only with service providers who help us operate this system
 - **Twilio** (SMS delivery)
 - **Anthropic** (Claude AI, used to process and interpret message content)
 - **JobNimbus** (our business's CRM/job management system)
-- **Twilio/SendGrid** (email delivery of internal billing reports)
+- **SendGrid** (email delivery of internal billing reports)
 
 We do not share this information with any other third party except as required by law.
+
+No mobile information will be shared with third parties or affiliates for marketing or promotional purposes. All other categories exclude text messaging originator opt-in data and consent; this information will not be shared with any third parties for any purpose.
 
 ## 4. Data Retention
 
@@ -47,6 +47,6 @@ Employees/contractors participating in this program may opt out of receiving the
 Questions about this Privacy Policy can be directed to:
 
 McRay Roofing
-[INSERT BUSINESS ADDRESS]
-[INSERT CONTACT EMAIL]
-[INSERT CONTACT PHONE NUMBER]
+13412 Railway Dr, Oklahoma City, OK 73114
+admin@mcrayroofing.com
+405-692-4000

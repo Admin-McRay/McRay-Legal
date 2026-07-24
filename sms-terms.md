@@ -1,8 +1,6 @@
 # SMS Terms & Conditions
 
-**Effective Date:** [INSERT DATE]
-
-*This is a draft template and has not been reviewed by an attorney. Please have legal counsel review before publishing.*
+**Effective Date:** July 24, 2026
 
 ## Program Description
 
@@ -20,7 +18,7 @@ Message and data rates may apply, depending on the recipient's mobile carrier an
 
 ## Opt-In / Opt-Out
 
-Participants are enrolled in this program as part of their role at McRay Roofing. To stop receiving messages at any time, reply **STOP** to any message. To get help, reply **HELP**, or contact us directly at [INSERT CONTACT EMAIL / PHONE].
+Participants are enrolled in this program as part of their role at McRay Roofing. To stop receiving messages at any time, reply **STOP** to any message. To get help, reply **HELP**, or contact us directly (see Contact Us below).
 
 ## Supported Carriers
 
@@ -33,6 +31,6 @@ Please see our [Privacy Policy](./privacy-policy.md) for information about how w
 ## Contact Us
 
 McRay Roofing
-[INSERT BUSINESS ADDRESS]
-[INSERT CONTACT EMAIL]
-[INSERT CONTACT PHONE NUMBER]
+13412 Railway Dr, Oklahoma City, OK 73114
+admin@mcrayroofing.com
+405-692-4000
